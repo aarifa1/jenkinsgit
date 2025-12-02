@@ -1,2 +1,0 @@
-# jenkinsgit
-practice
